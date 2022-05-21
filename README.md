@@ -1,16 +1,16 @@
 # Resume
- # H1 Mathew Roy's Resume
+ #H1 Mathew Roy's Resume
 
-# H2 Summary
+  #H2 Summary
 
-  # H2Certifications
+  #H2 Certifications
 
-  # H2Department of Energy/Contract
+  #H2 Department of Energy/Contract
 
-  # H2Oracle/Contract
+  #H2 Oracle/Contract
 
-  # H2Oracle: Technical Architect
+  #H2 Oracle: Technical Architect
 
-  # H2Pre Oracle Experience
+  #H2 Pre Oracle Experience
 
-  # H2Education
+  #H2 Education
