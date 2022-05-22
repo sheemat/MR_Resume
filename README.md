@@ -3,18 +3,21 @@
 
    ### Summary
 
-        I am an enterprise architect of the highest caliber with experience in many complex technologies. I have assisted several large enterprise customers over a span of 16 years
-        in various capacities. Presently with the advent of cloud technologies, I focus on multi-cloud architectures especially on Security, high availability and databases. I strive to be a multi cloud architect with professional experience and certifications in all three hyperscale providers.
+        I am an enterprise architect of the highest caliber with experience in many complex technologies.
+        I have assisted several large enterprise customers over a span of 16 years
+        in various capacities. Presently with the advent of cloud technologies, I focus on multi-cloud architectures 
+        especially on Security, high availability and databases. I strive to be a multi cloud architect with professional 
+        experience and certifications in all three hyperscale providers.
 
    ###  Certifications
-            AWS Certified Solutions Architect - Professional
-            AWS Certified Solutions Architect -Associate(2016 onwards)
-            AWS Certified Specialist- Security
-            AWS Certified Specialist- Databases
-            Certified Cloud Security Professional(CCSP from ISC2)
-            Oracle Cloud Infrastructure - Identity and Security Management Specialist Oracle Cloud Infrastructure -Architect(2018 -onwards)
-            Google Cloud Professional Security Engineer
-            (Working on Google Data and ML certifications)
+        AWS Certified Solutions Architect - Professional
+        AWS Certified Solutions Architect -Associate(2016 onwards)
+        AWS Certified Specialist- Security
+        AWS Certified Specialist- Databases
+        Certified Cloud Security Professional(CCSP from ISC2)
+        Oracle Cloud Infrastructure - Identity and Security Management Specialist Oracle Cloud Infrastructure -Architect(2018 -onwards)
+        Google Cloud Professional Security Engineer
+        (Working on Google Data and ML certifications)
 
 
 
